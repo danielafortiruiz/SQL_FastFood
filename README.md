@@ -1,5 +1,10 @@
 # 🥤 **DESCUBRIENDO LA BASE DE DATOS DE FAST FOOD** 🍔
 
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/SQL_FastFood/blob/main/woow%20fastfood%20img.png?raw=true" alt="Imagen de Fast Food">
+</p>
+
+
 **Autor:** Daniela María Forti Ruiz  
 **Cohorte:** DA-PT01  
 **Institución:** Woow Fastfood
